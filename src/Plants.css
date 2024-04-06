@@ -1,0 +1,16 @@
+.plants {
+  display: inline-block;
+  color: blue;
+  font-size: 10px;
+  justify-content: flex-start;
+  text-align: left;
+  padding: 5px;
+  margin-left: 5px;
+  border: 1px solid white;
+  border-radius: 5px;
+}
+
+.plant{
+  display: flex;
+  flex-direction: row;
+}
